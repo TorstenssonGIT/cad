@@ -1,0 +1,23 @@
+# .gitignore
+
+# ardunio
+config.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Node dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Secrets
+.env
+*.env
